@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: cont-1
-          image: adinarayana25/socialmedia:db
+          image: adinarayana25/socialmedia:db1
           ports:
             - containerPort: 3306
       imagePullSecrets:
